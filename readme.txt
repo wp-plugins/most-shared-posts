@@ -43,6 +43,11 @@ If you'd like display the count to your users then add a widget:
 
 Please consider a donation! :)
 
+== Upgrade Notice ==
+
+= 1.1.0 =
+Improves data collection, adds a stats panel in WP admin, and adds a shortcode option.
+
 == Frequently Asked Questions ==
 
 = I just installed and refreshed the page, but my most shared posts are not at the top of the list? =
